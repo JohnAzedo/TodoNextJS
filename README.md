@@ -1,5 +1,5 @@
 # TodoNextJS
-Simple project to study server-side rendering with NextJS
+Simple project to study server-side rendering and generate incremental static pages with NextJS
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
