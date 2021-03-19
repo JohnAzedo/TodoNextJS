@@ -1,4 +1,4 @@
-# TodoNextJS
+# NotesNextJS
 Simple project to study server-side rendering and generate incremental static pages with NextJS
 
 ## Getting Started
